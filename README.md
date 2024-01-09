@@ -1,4 +1,4 @@
-# Bancor Challenge
+# Bancor
 
 ## Objetivo
 El objetivo del banco mejorar la tasa de conversión de productos financieros, en este caso la comercialización de Préstamos Personales con destino libre. El dataset incluye información pertinente a clientes, altas de prestamos, nivel de endeudamiento en el sistema financiero, nivel socio-económico, ingresos, Cross-Selling, nivel de utilización de tarjetas de crédito y otros datos relevantes. El diccionario del mismo se encuentra disponible en el archivo `Descripcion de variables.xlsx`.
